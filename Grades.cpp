@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int score;
-    cout << "Enter your score Biatch: ";
+    cout << "Enter your score: ";
     cin >> score;
 
     if (score == 95, 96, 97, 98, 99, 100)
